@@ -13,10 +13,10 @@ PROJECT DESCRIPTION
 ------------------------------------------------------------------------------------
 PLINK Commands:
 To generate the linear regression data from PLINK:
-  plink —bfile snpdata —linear — pheno phenotype.txt
+  plink --bfile snpdata --linear --pheno phenotype.txt
 	  output file name: plink.assoc.linear
 To generate the transposed snpdata file:
-  plink —bfile snpdata —recode 
+  plink --bfile snpdata --recode 
 	  output file name: plink.tped
 
 Project_Script.R:
