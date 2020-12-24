@@ -1,7 +1,7 @@
 # GWAS
 This is meant for inspiration. Copying is at your own discretion.
 
-NOTE: PLINK binary files were too large for upload
+NOTE: PLINK binary files were too large for upload. Only code is uploaded
 
 PROJECT DESCRIPTION
 1) Perform linear regression in PLINK
