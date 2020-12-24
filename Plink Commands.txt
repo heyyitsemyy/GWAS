@@ -1,0 +1,4 @@
+To change .bed files to transposed .tped files:
+  plink --bfile snpdata --linear --pheno phenotype.txt
+To run linear regression in plink:
+  plink --bfile snpdata --recode --transpose
