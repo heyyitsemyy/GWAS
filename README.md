@@ -1,5 +1,9 @@
 # GWAS
-This is meant for inspiration. Copying is at your own discretion.
+**This is meant for inspiration. Copying is at your own discretion.**
+
+Genome-wide Association Study: genetic research approach to determine whether a particular genetic variation is associated with a particular disease. 
+
+This project is a GWAS on high-density lipoprotein cholesterol. 
 
 NOTE: PLINK binary files were too large for upload. Only code is uploaded
 
