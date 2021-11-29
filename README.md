@@ -1,5 +1,5 @@
 # GWAS
-**This is meant for inspiration. Copying is at your own discretion.**
+**Copying is at your own discretion.**
 
 Genome-wide Association Study: genetic research approach to determine whether a particular genetic variation is associated with a particular disease. 
 
